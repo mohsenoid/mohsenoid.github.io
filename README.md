@@ -21,4 +21,5 @@ I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and v
   - GitHub: [@mohsenoid ![GitHub followers](https://img.shields.io/github/followers/mohsenoid?style=social)](https://github.com/mohsenoid/)
   - Reddit: [@mohsenoid ![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/mohseniod?style=social)](https://www.reddit.com/user/mohseniod)
   - YouTube: [Android Developer Tips ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCVyVqVRYcykw6OFu61RkPsw?style=social)](https://www.youtube.com/c/AndroidDevelopmentLightningTipsAndTricks)
+  - Linkedin: [mohsenoid](https://www.linkedin.com/in/mohsenoid/)
 
