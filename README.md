@@ -1,4 +1,4 @@
-<img src="C:\Users\mohsenoid\Development\Personal\mohsenoid.github.io\avatar.png" alt="avatar" style="zoom:25%;" />
+<img src="avatar.png" alt="avatar" style="zoom:25%;" />
 ### Hi there 👋 I am Mohsen,
 A senior software engineer with a passion for Android development.🤖
 
@@ -20,5 +20,5 @@ I am a kinda computer geek who cannot resist Mobile apps, IoT, Tech talks, and v
   - Twitter: [@mohsenoid ![Twitter followers](https://img.shields.io/twitter/follow/mohsenoid?style=social)](https://twitter.com/@mohsenoid)
   - GitHub: [@mohsenoid ![GitHub followers](https://img.shields.io/github/followers/mohsenoid?style=social)](https://github.com/mohsenoid/)
   - Reddit: [@mohsenoid ![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/mohseniod?style=social)](https://www.reddit.com/user/mohseniod)
-  - YouTube: [Android Development Lightning Tips & Tricks ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCVyVqVRYcykw6OFu61RkPsw?style=social)](https://www.youtube.com/c/AndroidDevelopmentLightningTipsAndTricks)
+  - YouTube: [Android Developer Tips ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCVyVqVRYcykw6OFu61RkPsw?style=social)](https://www.youtube.com/c/AndroidDevelopmentLightningTipsAndTricks)
 
